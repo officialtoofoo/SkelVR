@@ -5,8 +5,8 @@ DO NOT Steal Any Assets Without Giving Credit.
 (TFD - TooFooDev)
 <br>
 <h1>Links</h1>
-[TooFoo YT](https://youtube.com/@TheTooFoo)
+<a href="https://youtube.com/@TheTooFoo">TooFoo's YouTube</a>
 <br>
-[Downlad Skel!](https://toofoo.itch.io/skelvr)
+<a href="https://toofoo.itch.io/skelvr">Itch.Io - Download Skel</a>
 <br>
 <p>goof skel</p>
